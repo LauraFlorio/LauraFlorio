@@ -17,11 +17,11 @@ I'm studying very hard to become a <strong> Data Analyst </strong> and be able t
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>MySQL, PowerBI.</strong>
+  🚀  Studying: <strong>MySQL, PowerBI.</strong>
 </p>
 
 <p align="center">
-  💌 Envie uma mensagem: ⤵️
+  💌 Send a message: ⤵️
 </p>
 
 <p align="center">
