@@ -8,10 +8,6 @@
 <p align="center">
   I'm a <strong>Civil Engineer</strong> and I love <strong>Science and Technology.</strong></p>
 
-<p align="center">  
-I'm studying very hard to become a <strong> Data Analyst </strong> and be able to develop meaningful and smart projects .
-</p>
-
 <p align="center">
   💼 Abilities: <strong>SQL Server, Python, GitHub.</strong>
 </p>
