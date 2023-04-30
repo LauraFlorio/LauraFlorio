@@ -32,13 +32,10 @@
 
 ## 💻 Technologies & Tools
 
-<p align="center">
-  
- 
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
-</p>
+<p align="center"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/></p>
+<p align="center"><img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/></p>
+<p align="center"><img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/></p>
+
 
 ## ⭐ GitHub Stats
 
