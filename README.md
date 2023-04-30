@@ -21,16 +21,14 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/lauraribeiroflorio" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauraribeiroflorio" /></a>
-</p> 
-
-
-<p align="center">
  <a href="mailto:lauraflorio2003@gmail.com?subject=subject text">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p> 
 
+<p align="center">
+ <a href="https://www.linkedin.com/in/lauraribeiroflorio" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lauraribeiroflorio" /></a>
+</p> 
 
 ## 💻 Technologies & Tools
 
