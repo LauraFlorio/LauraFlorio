@@ -31,13 +31,3 @@
 <p align="center"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/></p>
 <p align="center"><img src="https://img.shields.io/badge/-Firebase-%23F7DF1E.svg?style=flat-square&logo=firebase&logoColor=white" height="25"/></p>
 <p align="center"><img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/></p>
-
-
-## ⭐ GitHub Stats
-
-<div align = "center">
-  <img width="49%" height="195px" src = "https://github-readme-stats.vercel.app/api?username=lauraflorio&show_icons=true&count_private=true&hide_border=true&title_color=772E25&icon_color=772E25&text_color=f3dfc1&bg_color=0d1117">
-  <img width="41%" height="195px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lauraflorio&layout=compact&hide_border=true&title_color=772E25&icon_color=772E25&text_color=f3dfc1&bg_color=0d1117">
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LauraFlorio&bg_color=0d1117&color=f3dfc1&line=F06543&point=104911&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
