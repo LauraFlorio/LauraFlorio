@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  I'm a <strong>Civil Engineer</strong> and I love <strong>Science and Technology.</strong></p>
+  I'm a <strong>Civil Engineer</strong> and I love <strong></strong></p>
 
 <p align="center">
   💼 Abilities: <strong>SQL Server, Python, GitHub.</strong>
